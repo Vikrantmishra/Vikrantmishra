@@ -1,10 +1,10 @@
   <div style="max-width: 800px; margin: 0 auto; padding: 20px; display: flex; justify-content: space-between; align-items: flex-start;">
         <div style="flex: 1;">
             <h1>Hi 👋, I'm Vikrant Mishra</h1>
-            <h3>A passionate Full Stack Developer from India.</h3>
+            <h3>A passionate Full Stack Developer from India and 2nd year Engineering Student.</h3>
             <ul style="text-align: left; list-style-type: none; padding-left: 0;">
-                <li><strong>🌱 I’m currently learning React.js</strong></li>
-                <li><strong>💬 Ask me about Javascript, Java, Node.js, Express.js</strong></li>
+                <li><strong>🌱 I’m currently learning React.js.</strong></li>
+                <li><strong>💬 Ask me about Javascript, Java, Node.js, Express.js.</strong></li>
                 <li><strong>📫 How to reach me: <a href="mailto:viirantmishra2005@gmail.com">viirantmishra2005@gmail.com</a></strong></li>
                 <li style="display: flex; align-items: center;"><strong style="margin-right: 10px;">⚡ Fun fact:</strong> "Why do programmers prefer dark mode? Because the light attracts bugs!"</li>
             </ul>
